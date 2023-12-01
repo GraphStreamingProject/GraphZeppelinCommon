@@ -11,4 +11,4 @@ typedef uint64_t edge_id_t; // Max number edges
 
 // sketching
 typedef uint64_t vec_t; //Max sketch vector size is 2^64 - 1
-typedef uint32_t vec_hash_t;
+typedef uint64_t vec_hash_t;
